@@ -1,0 +1,50 @@
+body {
+    font-family: arial;
+    background-image: url("https://media.nationalgeographic.org/assets/photos/104/348/4e80ddfe-08ac-4386-a81b-a3538759559d.jpg");
+    max-width: 100%;
+    height: 40vw;
+    background-size: cover;
+    background-opacity: 0.5;
+    color: white;
+    text-align: center;
+    list-style-position: inside;
+    font-size: 20px
+    font-weight: bold;
+    
+  }
+  .header {
+     color: black;
+     font-family: times-roman;
+     font-size: 82px;
+    
+  }
+  .box {
+    margin: auto;
+    padding: 25px;
+    background: black;
+    opacity: 0.5;
+    width: 90vw;
+    height: 18vw;
+    max-width: 100%;
+    height: auto;
+    border: 4px solid green;
+    font-weight: bold;
+    font-size: -70vw;
+    
+  }
+  .smaller-image {
+    width: 500px;
+    height: 300px;
+    margin: 20px;
+    border-radius: 35%;
+    max-width: 100%;
+    height: auto;
+  }
+  .thin-white-border {
+    border-width: 5px;
+    border-color: white;
+    border-style: solid;
+  }
+  .white-font {
+    color: white;
+  }
